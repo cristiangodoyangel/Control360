@@ -31,8 +31,8 @@ control-inventario/
 ```properties
 spring.application.name=control-inventario
 spring.datasource.url=jdbc:sqlserver://localhost:1433;databaseName=control360;encrypt=true;trustServerCertificate=true
-spring.datasource.username=sa
-spring.datasource.password=calama1.
+spring.datasource.username=******
+spring.datasource.password=********
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
